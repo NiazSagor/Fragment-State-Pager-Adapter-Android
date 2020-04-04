@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CollectionDemoFragment</string>
+    <string name="contentDescription">nothing</string>
+    <string name="restaurantName">Lemongrass Restaurant</string>
+    <string name="restaurantAddress">Agrabad C/A S.Alam Center, 58 Sabdar Ali Rd, Chittagong 4102</string>
+    <string name="restaurantRate">0.0</string>
+    <string name="slash">/</string>
+    <string name="five">5</string>
+</resources>
